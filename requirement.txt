@@ -1,0 +1,5 @@
+1. create a virtual environment (python3 -m venv venv for Linux/macOS while "python -m venv venv" for Windows) in main.py terminal
+2. Activate the environment ".\venv\Scripts\Activate"
+3. Upgrade pip  "python -m pip install --upgrade pip"
+4. Install packages "pip install tensorflow pandas matplotlib scikit-learn numpy seaborn"
+  
